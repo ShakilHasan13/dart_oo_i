@@ -9,5 +9,5 @@ class MyClass{
 
 void main(){
   var myObj=MyClass();
-  myObj.myFunction(3, 3);
+  myObj.myFunction(5, 3);
 }
